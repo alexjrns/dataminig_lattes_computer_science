@@ -5,7 +5,7 @@ This repository contains the **data used** to analyze the Brazilian postgraduate
 - The **files** are organized within their respective **folders**.
 
 ## Details
-- To see the detailed project execution (step by step) access the Documents folder and the StepByStep.md file.
+- To see the detailed project execution (step by step) access the Documents folder.
 
 ## Execution of project
 For the correct execution of this project, the following tools are needed: 
