@@ -2,4 +2,4 @@
 
 ### The first step is detailed below: 
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/alexjrns/datamining_lattes_computer_science/blob/master/documents/01_Step.png)
