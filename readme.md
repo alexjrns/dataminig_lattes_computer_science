@@ -4,6 +4,9 @@ This repository contains the **data used** to analyze the Brazilian postgraduate
 ## Files
 - The **files** are organized within their respective **folders**.
 
+## Details
+- To see the detailed project execution (step by step) access the [Documents](https://github.com/alexjrns/datamining_lattes_computer_science/tree/master/documents) folder.
+
 ## Execution of project
 For the correct execution of this project, the following tools are needed: 
 - [Pentaho Data Integration (Kettle)](https://sourceforge.net/projects/pentaho/files/Pentaho-9.2/) - Version 8.0 or later
