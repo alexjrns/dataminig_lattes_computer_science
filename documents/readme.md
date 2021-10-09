@@ -8,6 +8,6 @@ Using the [BR-CAPES...](https://github.com/alexjrns/datamining_lattes_computer_s
 
 ### The second step is detailed below: 
 
-Using [identificados.csv](https://github.com/alexjrns/datamining_lattes_computer_science/blob/master/stage_files/identificados.csv) file and [script lattes(http://scriptlattes.sourceforge.net/) program the XMLs files was downloaded and save in [lattes resumes] (https://github.com/alexjrns/datamining_lattes_computer_science/tree/master/lattes_resumes) folder.
+Using [identificados.csv](https://github.com/alexjrns/datamining_lattes_computer_science/blob/master/stage_files/identificados.csv) file and [script lattes (http://scriptlattes.sourceforge.net/) program the XMLs files was downloaded and save in [lattes resumes](https://github.com/alexjrns/datamining_lattes_computer_science/tree/master/lattes_resumes) folder.
 
 ![](https://github.com/alexjrns/datamining_lattes_computer_science/blob/master/documents/02_Step.png)
