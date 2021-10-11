@@ -11,3 +11,9 @@ Using the [BR-CAPES...](https://github.com/alexjrns/datamining_lattes_computer_s
 Using [identificados.csv](https://github.com/alexjrns/datamining_lattes_computer_science/blob/master/stage_files/identificados.csv) file and [script lattes (http://scriptlattes.sourceforge.net/) program the XMLs files was downloaded and save in [lattes resumes](https://github.com/alexjrns/datamining_lattes_computer_science/tree/master/lattes_resumes) folder.
 
 ![](https://github.com/alexjrns/datamining_lattes_computer_science/blob/master/documents/02_Step.png)
+
+### 3. The third step is detailed below: 
+
+Using the [BR-CAPES...](https://github.com/alexjrns/datamining_lattes_computer_science/blob/master/sucupira_files/BR-CAPES-COLSUCUP-PROG2015-2016-03-01.csv) file and files in [lattes resumes](https://github.com/alexjrns/datamining_lattes_computer_science/tree/master/lattes_resumes) folder. The field "NOME-COMPLETO" is compare using Levenshtein Distance < 2, and the result of 2 files is archived in the Table "Pesquisador".
+
+![](https://github.com/alexjrns/datamining_lattes_computer_science/blob/master/documents/03_Step.png)
